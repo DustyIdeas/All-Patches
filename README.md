@@ -28,7 +28,6 @@ This repository contains a collection of Minecraft Bedrock scripts and addons cr
 - **Event Handling:** Advanced event handling to create dynamic and interactive game environments.
 - **User Interface Enhancements:** Improved user interface elements for better interaction and usability.
 - **Data Persistence:** Methods for saving and loading game data seamlessly.
-- **Multiplayer Support:** Enhanced multiplayer features to support collaborative gameplay.
 
 ## Installation
 
