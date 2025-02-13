@@ -1,4 +1,4 @@
-# **1.2.0 Patch Notes** -  12/7/24 @ 6:28 AM PT
+# **Dusty's World Border v1.2.0 Patch Notes** -  12/7/24 @ 6:28 AM PT
 
 ## **Updates**
 - **Updated for Minecraft Bedrock version `1.21.50.7`.**  
