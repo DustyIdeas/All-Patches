@@ -1,3 +1,5 @@
+Dusty's World Border v1.2.0
+
 # **Patch Notes** -  2/12/24 @ 7:18 PM PT
 
 ---
