@@ -1,4 +1,3 @@
-Dusty's World Border v1.3.0.md
 # **Patch Notes** -  3/26/25 @ 1:30 AM PT
 
 ---
